@@ -8,18 +8,18 @@
 /* Everything below this is my own customizations */
 
 a {
- color: red;
+ color:#14b592;
 }
 
 a:hover,
 a:focus {
- color:#6a0dad;
+ color:#14b592;
 }
 a small {
- color:#6a0dad;
+ color:#14b592;
 }
 a:hover small {
- color:#6a0dad
+ color:#14b592
 }
 
 /* body means everything, the default for the page */
