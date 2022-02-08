@@ -1,10 +1,8 @@
-## Developer Portfolio Landing Page Template
 
-### Introduction
+### Meagan Fairfield-Peak
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+The front-end of this repository is [mfairfieldpeak.github.io](https://mfairfieldpeak.github.io)
 
-<img src="images/demo.gif?raw=true"/>
 
 ### Installation
 
