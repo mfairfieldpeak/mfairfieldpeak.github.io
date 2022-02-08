@@ -5,7 +5,7 @@
 ### 687 Projects 
 
 [Enhancing Book Tutorials](/sample_page)
-<src="lab1/Lab1_fairfieldpeak.pdf?raw=true"/>
+<embed src="lab1/Lab1_fairfieldpeak.pdf?" width="800px" height="2100px" />
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
