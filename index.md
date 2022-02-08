@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### 687 Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Enhancing Book Tutorials](/sample_page)
+<img src="lab1/Lab1_fairfieldpeak.pdf?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
