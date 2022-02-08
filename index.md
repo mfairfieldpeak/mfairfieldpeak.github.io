@@ -5,7 +5,7 @@
 ### 687 Projects 
 
 [Enhancing Book Tutorials](/sample_page)
-<img src="lab1/Lab1_fairfieldpeak.pdf?raw=true"/>
+<src="lab1/Lab1_fairfieldpeak.pdf?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
