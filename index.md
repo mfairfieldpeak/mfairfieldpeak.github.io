@@ -4,11 +4,11 @@
 
 ### 687 Projects 
 
-[Enhancing Book Tutorials](lab1/project_lab1_desc)
+[Enhancing Book Tutorials](/lab1/project_lab1_desc)
 <embed src="lab1/Lab1_fairfieldpeak.pdf?" width="800px" height="1800px" />
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Census Data R](/lab2/project)
 <embed src="lab2/1ab2_fairfieldpeak.pdf?" width="800px" height="1800px" />
 
 ---
