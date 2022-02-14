@@ -8,8 +8,8 @@
 <embed src="lab1/Lab1_fairfieldpeak.pdf?" width="800px" height="1800px" />
 
 ---
-[Census Data R Code](/lab2_ fairfieldpeak.pdf)
-<embed src="lab2/1ab2_fairfieldpeak.pdf?" width="800px" height="1800px" scrollbar=1 />
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -20,7 +20,7 @@
 ### Category Name 2
 
 - [Enhancing Book Tutorials]((/lab1/project_lab1_desc)
-- [Census Data R Code](/lab2_ fairfieldpeak.pdf)
+- [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
