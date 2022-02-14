@@ -4,7 +4,7 @@
 
 ### 687 Projects 
 
-[Enhancing Book Tutorials](/lab1/project_lab1_desc)
+[Enhancing Book Tutorials](/lab1/project_lab1_desc.md)
 <embed src="lab1/Lab1_fairfieldpeak.pdf?" width="800px" height="1800px" />
 
 ---
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Enhancing Book Tutorials]((/lab1/project_lab1_desc)
+- [Enhancing Book Tutorials]((/lab1/project_lab1_desc.md)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
