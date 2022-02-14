@@ -8,7 +8,7 @@
 <embed src="lab1/Lab1_fairfieldpeak.pdf?" width="800px" height="1800px" />
 
 ---
-[Census Data R](/lab2/project)
+[Census Data R](/lab2_ fairfieldpeak.pdf)
 <embed src="lab2/1ab2_fairfieldpeak.pdf?" width="800px" height="1800px" scrollbar=1 />
 
 ---
