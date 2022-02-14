@@ -9,7 +9,7 @@
 
 ---
 [Census Data R](/lab2/project)
-<embed src="lab2/1ab2_fairfieldpeak.pdf?" width="800px" height="1800px" />
+<embed src="lab2/1ab2_fairfieldpeak.pdf?" width="800px" height="1800px" scrollbar=1 />
 
 ---
 [Project 3 Title](http://example.com/)
