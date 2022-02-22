@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Enhancing Book Tutorials]((/lab1/project_lab1_desc.md)
+- [Enhancing Book Tutorials](/lab1/project_lab1_desc.md)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
