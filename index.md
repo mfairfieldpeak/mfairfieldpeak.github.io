@@ -13,7 +13,7 @@
 
 ---
 [Tidycensus and Data Manipulation in R](/lab3/lab3_5-7_fairfieldpeak.pdf)
-<img src="lab3/balt_county.png?raw=true"/>
+<img src="lab3/balt_county_bachelors.png?raw=true"/>
 
 ---
 
