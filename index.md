@@ -8,8 +8,8 @@
 <embed src="lab1/Lab1_fairfieldpeak.pdf?" width="800px" height="1800px" />
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Introduction to tidycensus is R](/lab2/lab2_fairfieldpeak.pdf)
+<img src="lab2/md_pyramid.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
