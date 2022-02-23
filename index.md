@@ -20,8 +20,8 @@
 ### Category Name 2
 
 - [Enhancing Book Tutorials](/lab1/project_lab1_desc.md)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Project 2 Title](/lab2/lab2_fairfieldpeak.pdf)
+- [Project 3 Title](/lab3/lab3_5-7_fairfieldpeak.pdf)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
