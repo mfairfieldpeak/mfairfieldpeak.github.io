@@ -17,6 +17,21 @@
 
 ---
 
+### Previous Projects 
+
+[Hotspot Analysis of Roadkill Surveys](/lab1/project_lab1_desc.md)
+<embed src="lab1/Lab1_fairfieldpeak.pdf?" width="800px" height="1800px" />
+
+---
+[Harrisburg Redlined: The Zoning Practices that Segregated a Region](lab2/intro_tidycensus.pdf)
+<embed src="https://harrisburgu.maps.arcgis.com/apps/webappviewer/index.html?id=8252380a19d1432386a84283c8ccb56e%20" width="800px" height="1800px" />
+
+---
+[Multi-Environmental Parameters Dashboard for Susquehanna River Basin using Machine Learning Techniques](lab3/lab3_5-7_patchwork_fairfieldpeak.pdf)
+<embed src="https://harrisburgu.maps.arcgis.com/apps/opsdashboard/index.html#/d4dafeee290c47fb99666b84f83b7db1" width="800px" height="1800px" />
+
+---
+
 ### Category Name 2
 
 - [Enhancing Book Tutorials](/lab1/project_lab1_desc.md)
