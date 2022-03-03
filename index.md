@@ -5,7 +5,7 @@
 ### 687 Projects 
 
 [Enhancing Book Tutorials](/lab1/project_lab1_desc.md)
-<embed src="lab1/Lab1_fairfieldpeak.pdf?" width="800px" height="1800px" />
+<img src="lab1/Alaska_map.png?raw=true"/>
 
 ---
 [Introduction to tidycensus in R](lab2/intro_tidycensus.pdf)
@@ -14,6 +14,10 @@
 ---
 [Tidycensus and Data Manipulation in R](lab3/lab3_5-7_patchwork_fairfieldpeak.pdf)
 <img src="lab3/balt_county_bachelors.png?raw=true"/>
+
+---
+[Fruit Tree and Birth Place Correlation](lab4/FruitTrees_BirthPlace.pdf)
+<img src="lab4/seg_index.png?raw=true"/>
 
 ---
 
