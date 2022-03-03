@@ -4,3 +4,4 @@ Working alongside Messiah University, the Harrisburg Redlined Interactive Map wa
 
 At the beginning of this project, the Center was given a digital copy of the original survey map from 1936, and a digitized dataset of the communities in Harrisburg, PA. From those documents, the Center compiled a dataset by including notes taken from the survey record, including the population of the area broken down by race and ethnicity, and the final grade of the communities. The final grades were then used to symbolize the communities just as they were on the original survey map and added into the interactive Story Map platform. 
 
+[View Interactive Map](https://harrisburgu.maps.arcgis.com/apps/webappviewer/index.html?id=8252380a19d1432386a84283c8ccb56e%20)
