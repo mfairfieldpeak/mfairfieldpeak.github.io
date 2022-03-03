@@ -8,7 +8,7 @@
 <embed src="lab1/Lab1_fairfieldpeak.pdf?" width="800px" height="1800px" />
 
 ---
-[Introduction to tidycensus in R](/mfairfieldpeak.github.io/lab2/lab2_ fairfieldpeak.pdf)
+[Introduction to tidycensus in R](/mfairfieldpeak.github.io/lab2/lab2_fairfieldpeak.pdf)
 <img src="lab2/md_pyramid.png?raw=true"/>
 
 ---
