@@ -3,16 +3,16 @@
 ### 1. Provinces & Territories of Canada
 
 The map was enhanced through additional imformation. The polygon shapefile was obtained by USGS and the population data and flags were obtained through Wikipedia. 
-<img src="lab1/canada_map.png?raw=true"/>
+<img src="/lab1/canada_map.png?raw=true"/>
 
 ### 2. Alaska Global Landcover Classification
 
 To enhance the landcover map I started by using Extract by Mask on the Hillshade. 
 This gave the look of nice clean edges for the Alaska polygon. With both a hillshade and the 
 landcover raster the landcover transcpareency was increased to allot for the hillshade. 
-<img src="lab1/Alaska_map.png?raw=true"/>
+<img src="/lab1/Alaska_map.png?raw=true"/>
 
 ### 3. Airports within Alaskan Regions
 
 Finally this map displays Alaskan Airports differentiated by use. Using the count tool, QGIS created a new field in the Regions indicating the number of airports within their region.
-<img src="lab1/alaska_airport_map.png?raw=true"/>
+<img src="/lab1/alaska_airport_map.png?raw=true"/>
