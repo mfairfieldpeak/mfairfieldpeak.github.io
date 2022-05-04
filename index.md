@@ -8,8 +8,8 @@
 <img src="lab4/seg_index.png?raw=true"/>
 
 ---
-[Moran's I](lab4/FruitTrees_BirthPlace.pdf)
-<img src="lab4/seg_index.png?raw=true"/>
+[Moran's I Calculation](lab_morans/lab_morans_desc.md)
+<img src="lab_morans/receive_snap.png?raw=true"/>
 
 ---
 [Fruit Tree and Birth Place Correlation](lab4/FruitTrees_BirthPlace.pdf)
