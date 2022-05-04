@@ -4,6 +4,18 @@
 
 ### 687 Projects 
 
+[Forest Gap Project Place Holder](lab4/FruitTrees_BirthPlace.pdf)
+<img src="lab4/seg_index.png?raw=true"/>
+
+---
+[Moran's I](lab4/FruitTrees_BirthPlace.pdf)
+<img src="lab4/seg_index.png?raw=true"/>
+
+---
+[Fruit Tree and Birth Place Correlation](lab4/FruitTrees_BirthPlace.pdf)
+<img src="lab4/seg_index.png?raw=true"/>
+
+---
 [Enhancing Book Tutorials](/lab1/project_lab1_desc.md)
 <img src="lab1/Alaska_map.png?raw=true"/>
 
@@ -16,10 +28,7 @@
 <img src="lab3/balt_county_bachelors.png?raw=true"/>
 
 ---
-[Fruit Tree and Birth Place Correlation](lab4/FruitTrees_BirthPlace.pdf)
-<img src="lab4/seg_index.png?raw=true"/>
 
----
 
 ### Previous Projects 
 
