@@ -1,22 +1,17 @@
-**Project description:** Chapters 1-4 of Cutts and Graser "Learn QGIS" walks users through the basics uses and application of QGIS. Within these chapster the reader walks through tutorials of the decribed skills. Following the tutorials, I enhances three of the maps to continue developing new QGIS skills.
+**Project description:**  Moran's I statistic is the correlation coefficient for the relationship between a variable and its surrounding values. Moran's I statistic is not robust to outliers or strongly skewed datasets. Global Moran's I looks at dissimilarity and similarity high and low cluster.
 
 ### 1. Moran's I Calculation for the Percent of Baltimore City Tracts that Received SNAP Benefits
 
 The map provide people show the layout of percent of people within each tract who received SNAP benefits. The central portions of the city display to have higher percentages of people receiving SNAP. With a Moran’s I of 0.47 there is a less than 1 % chance that this clustered pattern is a result of random chance.
 
 
-<img src="/lab_morans/receive_snap?raw=true"/>
+<img src="/lab_morans/receive_snap.png?raw=true"/>
 
-### 2. Moran's I Calculation for Percent of the Non-Hispanic Black Population
+### 2. Moran's I Calculation for Percent of the Non-Hispanic Black Population in Baltimore City
 
-To enhance the landcover map I started by using Extract by Mask on the Hillshade. 
-This gave the look of nice clean edges for the Alaska polygon. With both a hillshade and the 
-landcover raster the landcover transcpareency was increased to allot for the hillshade. 
+The map provided below displays the non-hispanic black population in Baltimore City. With a Moran’s I of 0.64, there is less than 1 % chance that this pattern is clustered by random chance.
 
-<img src="/lab1/Alaska_map.png?raw=true"/>
+<img src="/lab_morans/nhblack_pop.png?raw=true"/>
 
-### 3. Airports within Alaskan Regions
-
-Finally this map displays Alaskan Airports differentiated by use. Using the count tool, QGIS created a new field in the Regions indicating the number of airports within their region.
-
+See full coding and other graphs. 
 <img src="/lab1/alaska_airport_map.png?raw=true"/>
