@@ -14,4 +14,5 @@ The map provided below displays the non-hispanic black population in Baltimore C
 <img src="/lab_morans/nhblack_pop.png?raw=true"/>
 
 See full coding and other graphs. 
-[Calculating Moran's I Lab](lab_morans/week9_moransi_writeup.pdf)
+[Calculating Moran's I Lab](https://mfairfieldpeak.github.io/lab_morans/week9_moransi_writeup.pdf)
+
