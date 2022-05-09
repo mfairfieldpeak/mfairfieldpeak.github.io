@@ -6,4 +6,4 @@ The first steps in this project were data collection and management. The compute
 
 This project is now on Phase 3, working on the accuracies of the AI model and enhancing the dashboard to include more capabilities. 
 
-[View Phase 2 Dashboard](https://harrisburgu.maps.arcgis.com/apps/opsdashboard/index.html#/d4dafeee290c47fb99666b84f83b7db1)
+[View Phase 2 Dashboard](https://harrisburgu.maps.arcgis.com/apps/dashboards/0ddd2ebd53b34c57bb8f4ca4e9ad3324)
