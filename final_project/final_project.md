@@ -3,7 +3,7 @@
 
 ### 1. Preparing LiDAR Data and GetForestGapsR
 
-To prepare the LiDAR point cloud data a canopy height model was created by creating rasters of first return and ground returns. These rasters were then used to calculate the canopy height model. With the canopy height model that raster could be used in the GetForestGapsR toolbox, as displayed in the code below.
+To prepare the LiDAR point cloud data a canopy height model was created by creating rasters of first return and ground returns. These rasters were then used to calculate the canopy height model. With the canopy height model rasters the GetForestGapsR toolbox could be applied, as displayed in the code below.
 
 
 <img src="final_project/get_forest_gap.png?raw=true"/>
