@@ -4,8 +4,8 @@
 
 ### 687 Projects 
 
-[Forest Gap Project Place Holder](lab4/FruitTrees_BirthPlace.pdf)
-<img src="lab4/seg_index.png?raw=true"/>
+[Forest Canopy Gap Project](final_project/final_project.md)
+<img src="final_project/gaps_layout.png"/>
 
 ---
 [Moran's I Calculation](lab_morans/lab_morans_desc.md)
