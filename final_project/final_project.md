@@ -12,7 +12,7 @@ To prepare the LiDAR point cloud data a canopy height model was created by creat
 This code was repeated for multiple canopy height models that make up Gwynns Falls and Leakin Park in western Baltimore, MD. The R package also allows for the calculation of statistics and the creation of shapefiles. The map provided below displays the forest canopy gaps (red polygons) present in the two parks of interest. 
 
 
-<img src="final_project/gaps_layout.png?raw=true"/>
+<img src="/final_project/gaps_layout.png?raw=true"/>
 
 ### 2. Calculating Population Density and Summarizing Gaps 
 
