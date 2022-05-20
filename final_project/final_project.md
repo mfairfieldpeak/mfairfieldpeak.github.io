@@ -6,27 +6,27 @@
 To prepare the LiDAR point cloud data a canopy height model was created by creating rasters of first return and ground returns. These rasters were then used to calculate the canopy height model. With the canopy height model rasters the GetForestGapsR toolbox could be applied, as displayed in the code below.
 
 
-<img src="final_project/get_forest_gap.png?raw=true"/>
+<img src="/final_project/get_forest_gap.png?raw=true"/>
 
 
 This code was repeated for multiple canopy height models that make up Gwynns Falls and Leakin Park in western Baltimore, MD. The R package also allows for the calculation of statistics and the creation of shapefiles. The map provided below displays the forest canopy gaps (red polygons) present in the two parks of interest. 
 
 
-<img src="final_project/gaps_Layout.png?raw=true"/>
+<img src="/final_project/gaps_Layout.png?raw=true"/>
 
 ### 2. Calculating Population Density and Summarizing Gaps 
 
 With the forest canopy gaps identified, the population density can be calculated. As seen in the code below, using tidy census allowed for the total population to be pulled for Baltimore tracts. The area and the population density (pop/sq.mi.) were then both calculated and then creation of centroids for the tracks and Buffer for 0.3 and 0.5 miles. 
 
 
-<img src="final_project/pop_data.png?raw=true"/>
+<img src="/final_project/pop_data.png?raw=true"/>
 
 Using the tool Summarize Within from GIS, the sum of area and count of gaps within each buffer was calculated supplying the two maps below. The summarized areas were then plotted to produce the below graphs that show there is not a direct correlation with increasing population density and the total area of gaps. 
 
 
-<img src="final_project/twomaps.png?raw=true"/>
+<img src="/final_project/twomaps.png?raw=true"/>
 
-<img src="final_project/two_graphs.png?raw=true"/>
+<img src="/final_project/two_graphs.png?raw=true"/>
 
 ### 3. Discussion 
 
